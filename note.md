@@ -59,3 +59,7 @@
 #### v-bind
 
 ![image-20230508142811404](C:\Users\panjiaming\AppData\Roaming\Typora\typora-user-images\image-20230508142811404.png)
+
+#### v-model
+
+![image-20230508152131289](C:\Users\panjiaming\AppData\Roaming\Typora\typora-user-images\image-20230508152131289.png)
